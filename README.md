@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @perkinator12312
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... jvavscript and python
+- 🌱 I’m currently learning ... javascript and python
 - 💞️ I’m looking to collaborate on ... anything aslong as i get to learn something
 - 📫 How to reach me ...
 
